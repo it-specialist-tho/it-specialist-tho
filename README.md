@@ -2,20 +2,29 @@
 
 <div align="center">
 
-<!-- Logo and Header -->
-<img src="tho-tex-logo.jpg" alt="THO TEX Logo" width="160" style="border-radius: 50%;" />
+<!-- Brand Logo -->
+<img src="tho-tex-logo.jpg" alt="THO TEX Logo" width="160" style="border-radius: 50%; border: 3px solid #E52521;" />
 
 <br/>
 
 <!-- Animated Header Banner with Brand Colors (Red #E52521 & Yellow #FFD200) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E52521,FFD200,111111&height=180&section=header&text=THO%20TEX&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=IT%20Specialist%20%7C%20Web%20Developer&descAlignY=55&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E52521,FFD200,111111&height=180&section=header&text=THO%20TEX&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=IT%20Specialist%20%7C%20Cybersecurity%20Expert%20%7C%20Web%20Dev&descAlignY=55&descSize=21" width="100%"/>
 
-<!-- Designation Typing Animation (Encoded for 100% reliable rendering) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=E52521&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Website+Developer;%F0%9F%92%A1+Technology+Enthusiast;%F0%9F%92%BB+IT+Specialist;%E2%9A%A1+Digital+Solutions+Expert" alt="Typing SVG" />
+<!-- Designation Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=E52521&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Website+Developer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Expert;%F0%9F%92%BB+IT+Specialist;%F0%9F%92%A1+Technology+Enthusiast;%E2%9A%A1+Securing+%26+Building+Digital+Frontiers" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Profile Views & Followers Badges in Brand Colors -->
+<!-- Cybersecurity & Professional Badges -->
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-E52521?style=for-the-badge&logo=hackthebox&logoColor=white)
+&nbsp;
+![Security Auditing](https://img.shields.io/badge/Security-Auditor-black?style=for-the-badge&logo=kalilinux&logoColor=white)
+&nbsp;
+![Network Defense](https://img.shields.io/badge/Network-Defender-FFD200?style=for-the-badge&logo=wireshark&logoColor=black)
+
+<br/>
+
+<!-- Profile Views & Followers Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=it-specialist-tho&label=Profile%20Views&color=E52521&style=for-the-badge)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/it-specialist-tho?label=Followers&style=for-the-badge&color=111111&logo=github)](https://github.com/it-specialist-tho)
@@ -26,61 +35,94 @@
 
 ---
 
+## ⚡ Hacker & Dev Terminal
+
+```zsh
+tho@thotex-lab:~$ whoami
+> THO TEX [IT Specialist & Cybersecurity Expert]
+
+tho@thotex-lab:~$ sysinfo --status
+[+] Security Level : Hardened (Zero-Trust Enabled) 🛡️
+[+] Current Status : 🔴 THO TEX Office work only
+[+] Core Mission   : Architect secure web infrastructures & safeguard enterprise data
+[+] Active Shield  : IDS/IPS · Penetration Testing · Vulnerability Management
+
+tho@thotex-lab:~$ cat /etc/mantra.txt
+"There is no patch for human error, but code and vigilance build unbreakable fortresses."
+```
+
+---
+
 ## 🧑‍💻 About Me
 
 ```yaml
 Name        : THO TEX
-Title       : IT Specialist & Website Developer
+Title       : IT Specialist · Cybersecurity Expert · Web Developer
 Status      : 🔴 THO TEX Office work only
-Focus       : Web Development · Technology Solutions · IT Support
-Specialty   : Systems Administration & Web Engineering
-Quote       : "Code is poetry. Technology is the brush. I paint digital worlds."
+Focus       : Web Development · Penetration Testing · Threat Mitigation
+Specialty   : Infrastructure Hardening · Full-Stack Security · IT Operations
+HQ          : THO TEX Headquarters
 ```
 
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Cyber Security Hacker GIF" width="370" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" />
 
-### 🔭 What I Do
-- 🌐 Build **modern, responsive websites** from scratch
-- 🛠️ Provide end-to-end **IT Support & Solutions**
-- ⚡ Specialize in **performance optimization**
-- 🔒 Implement **web security best practices**
-- 📱 Create **mobile-first** digital experiences
-- 🤖 Explore cutting-edge **tech & automation**
+### 🛡️ Cybersecurity & IT Focus
+- 🔐 **Penetration Testing & Vulnerability Assessment (VAPT)**
+- 🛡️ **Web Application Firewall (WAF) & DDoS Mitigation**
+- 🔒 **Zero-Trust Network Architecture & Server Hardening**
+- 🔍 **Incident Response & Digital Forensics**
+- 🌐 **Secure Full-Stack Web Development**
+- ⚡ **High-Performance Infrastructure & CI/CD Security**
 
-### 🌱 Currently Exploring
-- ☁️ Cloud Computing & Infrastructure (AWS / GCP)
-- 🤖 AI & Automation Workflows
-- 🔗 Enterprise IT Architecture
+### 💻 Live Code Vibe (Bash/Python Exploitation & Defense)
+
+```python
+class ThoTexSecurity:
+    def __init__(self):
+        self.threat_intel = "ACTIVE"
+        self.firewall = "STRICT"
+        self.zero_trust = True
+
+    def scan_and_protect(self, target):
+        vulns = target.audit_vulnerabilities()
+        if vulns:
+            target.patch_and_harden()
+            return "🛡️ Fortress Secured: Threat Neutralized."
+        return "✅ System Integrity Verified. No breaches detected."
+
+tho = ThoTexSecurity()
+print(tho.scan_and_protect(enterprise_network))
+```
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=it-specialist-tho&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/it-specialist-tho)
+[![trophy](https://github-profile-trophy.vercel.app/?username=it-specialist-tho&theme=gruvbox&no-frame=false&margin-w=4&margin-h=4&row=1&column=6)](https://github.com/it-specialist-tho)
 
 </div>
 
 ---
 
-## 💼 Services I Offer
+## 💼 Services & Solutions
 
 <div align="center">
 
-| 🌐 Web Development | 💻 IT Solutions | 🎨 UI/UX Design |
+| 🛡️ Cybersecurity | 🌐 Web Architecture | 💻 Enterprise IT |
 |:---:|:---:|:---:|
-| Custom Websites | Network Setup | Responsive Design |
-| E-commerce Stores | IT Consultation | Wireframing |
-| CMS Development | Server Management | Prototyping |
-| API Integration | Security Audits | Brand Identity |
-| Performance Optimization | Tech Support | Modern Architecture |
+| Vulnerability Assessment | High-Speed Custom Sites | Enterprise Network Setup |
+| Penetration Testing | E-commerce Solutions | Server Hardening (Linux/Win) |
+| Malware Analysis | API & Cloud Integration | Backup & Disaster Recovery |
+| Web App Security (OWASP) | Performance Tuning | IT Policy & Consultation |
+| SSL/TLS & Auth Hardening | Modern UI/UX | 24/7 Security Auditing |
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Tech & Security Quote
 
 <div align="center">
 
@@ -107,10 +149,10 @@ Quote       : "Code is poetry. Technology is the brush. I paint digital worlds."
 <div align="center">
 
 <!-- Footer Wave in THO TEX Brand Red & Yellow -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E52521,FFD200,111111&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E52521,FFD200,111111&height=120&section=footer&text=Stay%20Secure.%20Keep%20Building.&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 
-**⭐ Star my repos if you find them useful!**
+**⭐ Star my repositories if you find them helpful!**
 
-*THO TEX · IT Specialist*
+*THO TEX · IT Specialist & Cybersecurity Expert*
 
 </div>
